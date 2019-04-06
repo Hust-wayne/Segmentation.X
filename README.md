@@ -161,6 +161,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
     
 ### Before 2015
+   + [STFCN: Spatio-Temporal FCN for Semantic Video Segmentation](https://arxiv.org/pdf/1608.05971.pdf)
    + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV2014]
    + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf) [TPAMI2011][[Project](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)] 
    + [Dense Segmentation-aware Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf)[CVPR2013]
@@ -209,6 +210,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + http://segmentation.is.tue.mpg.de/
 
 ## Saliency Detection
+   
    - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://arxiv.org/abs/1902.06634)
    - [Understanding and Visualizing Deep Visual Saliency Models](https://arxiv.org/abs/1903.02501) (CVPR2019)
    - [SAC-Net: Spatial Attenuation Context for Salient Object Detectio](https://arxiv.org/abs/1903.10152)
