@@ -161,7 +161,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
     
 ### Before 2015
-   + [STFCN: Spatio-Temporal FCN for Semantic Video Segmentation](https://arxiv.org/pdf/1608.05971.pdf)
+  
    + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV2014]
    + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf) [TPAMI2011][[Project](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)] 
    + [Dense Segmentation-aware Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf)[CVPR2013]
@@ -204,6 +204,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Motion-Guided Cascaded Refinement Network for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Motion-Guided_Cascaded_Refinement_CVPR_2018_paper.pdf)
    
    - others
+      + [STFCN: Spatio-Temporal FCN for Semantic Video Segmentation](https://arxiv.org/pdf/1608.05971.pdf)
       + [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
       + https://github.com/shelhamer/clockwork-fcn
       + https://github.com/JingchunCheng/Seg-with-SPN
